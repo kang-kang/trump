@@ -1,0 +1,6 @@
+sanic
+sanic_session
+aioredis
+aiohttp
+etcd3
+httpx

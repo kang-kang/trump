@@ -1,0 +1,10 @@
+ld
+*.sw[po]
+__pycache__
+.idea
+*.log
+/dist
+/trump.egg-info
+*.pyc
+/build/
+_build
